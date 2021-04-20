@@ -1,4 +1,4 @@
-# jira-Get-Groups
+# jira-Get-Groups   [![Build status](https://ci.appveyor.com/api/projects/status/o7e9st2lpw9unue9?svg=true)](https://ci.appveyor.com/project/guihen01/npm-jira-get-groups)
 
 get a list of all Jira groups from a given JIRA server 
 
