@@ -1,0 +1,19 @@
+{
+  "name": "jira-get-groups",
+  "version": "1.0.0",
+  "description": "jira-Get-Groups",
+  "main": "app.js",
+  "author": {
+    "name": "Henri Guillot"
+  },
+  "repository": "https://github.com/guihen01/npm-jira-get-groups.git",
+  "keywords": [
+    "jira",
+    "rest api"
+  ],
+  "license": " GPL-2.0",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
